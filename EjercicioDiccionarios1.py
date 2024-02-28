@@ -48,10 +48,10 @@ elif eleccion_principal == "bolleria":
     "ensaimada",
     "napolitana de crema",
     "palmera de chocolate",
-    "palmera de coco"
-    "palmera de crema"
-    "chapata de chocolate"
-    "bollo de leche"
+    "palmera de coco",
+    "palmera de crema",
+    "chapata de chocolate",
+    "bollo de leche",
     "churros", 
     "rosquillas",
     "promocion churros + ensaimada",
